@@ -1,5 +1,5 @@
 # region imports
-import hw5a as pta  # Import external module for friction factor calculations and plotting
+import HW5SP25a as pta  # Import external module for friction factor calculations and plotting
 import random as rnd  # Import random module for probabilistic calculations
 import numpy as np
 from matplotlib import pyplot as plt
